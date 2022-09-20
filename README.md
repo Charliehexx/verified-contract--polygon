@@ -1,13 +1,3 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Sample project for how to verify smart contract easliy using hahrdhat environment<br/>
+Verified contract address=0x42d5C6998C4903aAfBf94B1F8ae2F58B74145A70<br/>
+Verify the above contract address on mumbai polygonscan .
